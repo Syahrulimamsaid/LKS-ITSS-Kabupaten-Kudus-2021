@@ -1,0 +1,11 @@
+D:\Project Visual Studio\C#\Kabupaten\LKS.Kab4\LKS.Kab4\bin\Debug\LKS.Kab4.exe.config
+D:\Project Visual Studio\C#\Kabupaten\LKS.Kab4\LKS.Kab4\bin\Debug\LKS.Kab4.exe
+D:\Project Visual Studio\C#\Kabupaten\LKS.Kab4\LKS.Kab4\bin\Debug\LKS.Kab4.pdb
+D:\Project Visual Studio\C#\Kabupaten\LKS.Kab4\LKS.Kab4\obj\Debug\LKS.Kab4.csproj.AssemblyReference.cache
+D:\Project Visual Studio\C#\Kabupaten\LKS.Kab4\LKS.Kab4\obj\Debug\LKS.Kab4.csproj.SuggestedBindingRedirects.cache
+D:\Project Visual Studio\C#\Kabupaten\LKS.Kab4\LKS.Kab4\obj\Debug\LKS.Kab4.Form1.resources
+D:\Project Visual Studio\C#\Kabupaten\LKS.Kab4\LKS.Kab4\obj\Debug\LKS.Kab4.Properties.Resources.resources
+D:\Project Visual Studio\C#\Kabupaten\LKS.Kab4\LKS.Kab4\obj\Debug\LKS.Kab4.csproj.GenerateResource.cache
+D:\Project Visual Studio\C#\Kabupaten\LKS.Kab4\LKS.Kab4\obj\Debug\LKS.Kab4.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\C#\Kabupaten\LKS.Kab4\LKS.Kab4\obj\Debug\LKS.Kab4.exe
+D:\Project Visual Studio\C#\Kabupaten\LKS.Kab4\LKS.Kab4\obj\Debug\LKS.Kab4.pdb
